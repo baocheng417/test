@@ -4,3 +4,4 @@ a little changed
 new branch dec
 old branch 
 new branch feature1
+deal bug
